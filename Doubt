@@ -1,0 +1,1 @@
+tensorflow/core/grappler/optimizers/meta_optimizer.cc:502] layout failed: Invalid argument: Subshape must have computed start >= end since stride is negative, but is 0 and 2 (computed from start 0 and end 9223372036854775807 over shape with rank 2 and stride-1)
